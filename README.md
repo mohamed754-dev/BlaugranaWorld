@@ -1,2 +1,2 @@
 # BlaugranaWorld
-ce site vous présente des images de FC Barcelona
+ce site vous présente des images de FC Barcelone
